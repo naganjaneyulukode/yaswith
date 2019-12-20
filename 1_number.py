@@ -3,7 +3,7 @@
 2. Number is a immutable object
     Example :-  N = 123
 
-    1. 'N' is a Variable
+ 
     2. '=' is a assignment operator
     3. '123' is a value
     4. 'N' Data type is number
